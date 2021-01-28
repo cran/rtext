@@ -1,7 +1,7 @@
 Package: rtext
 Title: R6 Objects for Text and Data
-Date: 2019-01-21
-Version: 0.1.21
+Date: 2021-01-27
+Version: 0.1.22
 Authors@R: c(
   person(
     "Peter", "Meissner",
@@ -38,13 +38,13 @@ Imports: R6 (>= 2.1.2), hellno (>= 0.0.1), magrittr (>= 1.5), Rcpp (>=
 Suggests: testthat, knitr, rmarkdown
 BugReports: https://github.com/petermeissner/rtext/issues
 URL: https://github.com/petermeissner/rtext
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2019-01-22 19:30:17 UTC; peter
+Packaged: 2021-01-28 07:17:49 UTC; peter
 Author: Peter Meissner [aut, cre],
   Ulrich Sieberer [cph],
   University of Konstanz [cph]
 Maintainer: Peter Meissner <retep.meissner@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-01-23 22:00:03 UTC
+Date/Publication: 2021-01-28 07:40:02 UTC
